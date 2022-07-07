@@ -31,7 +31,7 @@ GEM
       tilt
     hpricot (0.8.6)
     htmlentities (4.3.4)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.3.0)
     mini_portile2 (2.5.1)
     multi_json (1.14.1)
